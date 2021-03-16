@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\bin\Debug\netstandard2.0\XamMobileApp.deps.json
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\bin\Debug\netstandard2.0\XamMobileApp.dll
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\bin\Debug\netstandard2.0\ref\XamMobileApp.dll
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\bin\Debug\netstandard2.0\XamMobileApp.pdb
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\XamMobileApp.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\XamMobileApp.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\XamMobileApp.AssemblyInfo.cs
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\XamMobileApp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\XamMobileApp.dll
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\ref\XamMobileApp.dll
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\XamMobileApp.pdb
+C:\Users\ACER\source\repos\XamMobileApp\XamMobileApp\XamMobileApp\obj\Debug\netstandard2.0\Views\EnregistrerUtilisateur.xaml.g.cs
